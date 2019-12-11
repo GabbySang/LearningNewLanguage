@@ -18,10 +18,12 @@ projects that have been uploaded to this repository-
   _Records sleep over a week and compares the total to the recommended amount
   for healthy sleep patterns._
 - __Rock, Paper, Scissors__
-  _A simple game of Rock, Paper, Scissors between the user and computer__
+  _A simple game of Rock, Paper, Scissors between the user and computer_
 - __Whale Language__
   _Similar to the 'pig latin' exercise I had made in Ruby. Involves loops,
-  comparing arrays and changing words into new structures.__
+  comparing arrays and changing words into new structures._
+
+
 
 
 __Thermostat__
@@ -37,7 +39,8 @@ introductory course from Code Academy that helped me understand Event Handlers
 and Styling. I also wanted to be able to customize my project with animations
 and this resource helped me work out how to do that.
 
-_Sample Code__
+
+_Sample Code_
 
 [link](https://github.com/GabbySang/ThermostatJS.git)
 
