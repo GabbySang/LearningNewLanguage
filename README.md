@@ -23,6 +23,20 @@ projects that have been uploaded to this repository-
   _Similar to the 'pig latin' exercise I had made in Ruby. Involves loops,
   comparing arrays and changing words into new structures._
 
+Some of the above mini projects involved learning from translation. As
+aforementioned Whale Language was similar to Pig Latin in Ruby so I knew I had
+to use arrays and be able to iterate through text to find particular letters.
+I was able to explore if/else if/else statements from Rock, Paper, Scissors
+and as I had already done such a task in Ruby I could see how I structured
+that and then modify for the changes in syntax. I also was able to use loops
+that were a familiar concept introduced in Ruby. However I quickly realised
+that in Ruby there were many ways of looping through data structure
+(.each, .inject, .map etc) compared to in JavaScript where the for and while
+loops can be used in many different ways to the same effect.   
+
+Learning by translation provided a useful framework for quickly ascertaining
+what may be useful to learn in Javascript and how it may feature in more
+complicated code and testing in the future.     
 
 
 
